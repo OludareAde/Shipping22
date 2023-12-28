@@ -1,0 +1,12 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.menu {
+    margin-bottom: 20px;
+}
+
+.hidden {
+    display: none;
+}
